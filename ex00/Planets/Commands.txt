@@ -1,0 +1,206 @@
+    1  ls
+    2  cd Bureau/
+    3  mkdir nodeJs
+    4  cd nodeJs/
+    5  vagrant init
+    6  nano Vagrantfile 
+    7  mkdir data
+    8  vagrant up
+    9  nano Vagrantfile 
+   10  vagrant up
+   11  nano Vagrantfile 
+   12  vagrant up
+   13  ls
+   14  vagrant up
+   15  cd Bureau/nodeJs/
+   16  vagrant up
+   17  ls
+   18  vagrant init
+   19  cd Bureau/
+   20  mkdir nodeJs
+   21  cd nodeJs/
+   22  vagrant init
+   23  nano Vagrantfile 
+   24  vagrant up
+   25  nano Vagrantfile 
+   26  sudo shutdown -r now
+   27  cd Bureau/
+   28  cd nodeJs/
+   29  vagrant up
+   30  cd ../
+   31  sudo apt remove --purge virtualbox-6.1 
+   32  cd Bureau/nodeJs/
+   33  vagrant up
+   34  ls
+   35  mkdir data
+   36  vagrant up
+   37  vagrant ssh
+   38  vagrant ssh-config
+   39  npm install -g express-generator
+   40  sudo npm install -g express-generator
+   41  vagrant up
+   42  vagrant ssh
+   43  cd Bureau/nodeJs/
+   44  vagrant up
+   45  vagrant ssh
+   46  cd Bureau/nodeJs/
+   47  vagrant up
+   48  vagrant ssh
+   49  cd Bureau/nodeJs/
+   50  vagrant up
+   51  vagrant ssh
+   52  cd Bureau/
+   53  mkdir evalNodeJs
+   54  cd evalNodeJs/
+   55  vagrant init
+   56  nano Vagrantfile 
+   57  vagrant up
+   58  mkdir data
+   59  vagrant up
+   60  vagrant ssh
+   61  vagrant ssh-config
+   62  vagrant up
+   63  vagrant ssh
+   64  cd ../
+   65  cd nodeJs/
+   66  vagrant up
+   67  vagrant ssh
+   68  vagrant ssh-config
+   69  vagrant up
+   70  vagrant shh
+   71  vagrant ssh
+   72  cd ../
+   73  cd evalNodeJs/
+   74  vagrant up
+   75  vagrant ssh
+   76  vagrant ssh-config
+   77  vagrant up
+   78  vagrant ssh
+   79  cd Bureau/
+   80  cd evalNodeJs/
+   81  touch read.md
+   82  nano read.md 
+   83  cd Bureau/evalNodeJs/
+   84  ls
+   85  cd data/evalNodeJs/
+   86  ls
+   87  git init
+   88  git status
+   89  git add --all
+   90  git commit first commit -m
+   91  git remote add origin https://github.com/KnElisabeth/evalNodeJs.git
+   92  git push origin master
+   93  remote
+   94  git remote
+   95  git push -u origin master
+   96  git init
+   97  git status
+   98  git add --all
+   99  git status
+  100  git commit -m "first commit"
+  101  git config user.email "elisabeth.hoarau@kndigit.com"
+  102  git config user.name "KnElisabeth"
+  103  git remote add origin https://github.com/KnElisabeth/evalNodeJs.git
+  104  git remote
+  105  git push origin master
+  106  git push -u origin master
+  107  git init
+  108  git status
+  109  git add --all
+  110  git commit -m "first commit"
+  111  git remote add origin https://github.com/KnElisabeth/nodeJs.git
+  112  git push origin master
+  113  git push -u origin master
+  114  git status
+  115  git commit -m "first commit"
+  116  git config --global user.email "elisabeth.hoarau@kndigit"
+  117  git config --global user.name "Your Name"
+  118  git config --global user.name "KnElisabeth"
+  119  git commit -m "first commit"
+  120  git remote add origin git config --global user.name "Your Name"
+  121  git remote add origin https://github.com/KnElisabeth/nodeJs.git
+  122  git init
+  123  git add --all
+  124  git status
+  125  git config user.name "KnElisabeth"
+  126  git config user.email "elisabeth.hoarau@kndigit.com"
+  127  git commit -m "first commit"
+  128  git remote add origin https://github.com/KnElisabeth/nodeJs.git
+  129  git push origin master
+  130  cd Bureau/nodeJs/
+  131  ls
+  132  cd data/
+  133  ls
+  134  cd twitter/
+  135  git init
+  136  git add --all
+  137  git config user.name "KnElisabeth"
+  138  git config user.email "elisabeth.hoarau@kndigit.com"
+  139  git commit -m "first commit"
+  140  git remote add origin https://github.com/KnElisabeth/coursNodeJs.git
+  141  git push origin master
+  142  cd Bureau/evalNodeJs/
+  143  vagrant up
+  144  vagrant ssh
+  145  ls
+  146  man ls
+  147  ls -a
+  148  mkdir itakademy
+  149  command
+  150  commande
+  151  man ls
+  152  ls
+  153  cd Documents/
+  154  mkdir Piscine
+  155  cd Piscine/
+  156  git clone https://github.com/simondelplanque/Day00.git
+  157  ls
+  158  cd Day00/
+  159  ls
+  160  mkdir ex02 ex03 ex04 ex05
+  161  ls
+  162  ls -lra
+  163  git log
+  164  git status
+  165  git add .
+  166  git commit -m
+  167  git commit -m "J'ai ajouté les exo de 2 à 5" 
+  168  git push
+  169  git fetch
+  170  ls
+  171  cd ex00
+  172  ls
+  173  cd Planets/
+  174  mkdir Real Starwars Startrek
+  175  ls
+  176  ls Real/
+  177  cd Real/
+  178  mkdir Telluriques Gazeuses
+  179  ls
+  180  cd Planets
+  181  cd..
+  182  cd.. Planets
+  183  cdls
+  184  cd ..
+  185  touch Commands.txt
+  186  ls
+  187  cd ..
+  188  git add 
+  189  git add ex00
+  190  ls 
+  191  cat Planets
+  192  cd ..
+  193  cd ex00/ planets
+  194  cd ex00
+  195  cd Planets/
+  196  hystory
+  197  history
+  198  no Commands.txt 
+  199  nano Commands.txt 
+  200  touch Commands2.txt
+  201  script Commands.txt
+  202  history
+  203  history >> History.txt
+  204  cat History.txt
+  205  history
+  206  history >> Commands.txt
