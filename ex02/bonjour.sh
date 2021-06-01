@@ -1,6 +1,3 @@
-$ read var1 var2
-A bientot
-$ echo $var1
-A
-$ echo $var2
-bientot
+echo "Bonjour, quel est votre prénom?"
+read prenom
+echo "Bonjour, $prenom"
